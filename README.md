@@ -1,6 +1,6 @@
  # Hi, I’m @Talhakrbl👋 
 - 👀 I’m interested in data analytcs
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Phyton,Power BI
 - 📫 How to reach me talhakrbl@gmail.com
 
 
