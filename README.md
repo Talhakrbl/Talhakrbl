@@ -1,5 +1,5 @@
  # Hi, I’m @Talhakrbl👋 
-- 👀 I’m interested in data analytcs
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently focusing more Power BI
 - 📫 How to reach me talhakrbl@gmail.com
 About Me
