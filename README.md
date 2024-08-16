@@ -1,6 +1,6 @@
  # Hi, I’m @Talhakrbl👋 
 - 👀 I’m interested in data analytcs
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently focusing more Power BI
 - 📫 How to reach me talhakrbl@gmail.com
 About Me
 # Skills
