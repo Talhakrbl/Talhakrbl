@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aşağıdaki maddeleri doğru sıraya koyun:"
+        android:layout_marginBottom="8dp"/>
+
+    <LinearLayout
+        android:id="@+id/linear_layout_ordering_items"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:minHeight="100dp"
+        android:layout_marginBottom="16dp">
+        <!-- TextViews or Chips for items to be ordered will be added here programmatically -->
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_submit_ordering_answer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Sıralamayı Onayla" />
+
+</LinearLayout>
