@@ -1,0 +1,60 @@
+[
+  {
+    "id": "sq_geo_1",
+    "questionType": "SPEED",
+    "text": "Türkiye'nin en kalabalık şehri hangisidir?",
+    "topic": "Coğrafya",
+    "options": ["Ankara", "İstanbul", "İzmir", "Bursa"],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "fbq_hist_1",
+    "questionType": "FILL_IN_THE_BLANK",
+    "text": "Mustafa Kemal Atatürk, Türkiye Cumhuriyeti'ni ____ yılında kurmuştur.",
+    "topic": "Tarih",
+    "correctAnswers": ["1923"]
+  },
+  {
+    "id": "oq_sci_1",
+    "questionType": "ORDERING",
+    "text": "Bu bilim insanlarını doğum tarihlerine göre eskiden yeniye sıralayın:",
+    "topic": "Bilim",
+    "itemsToOrder": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Marie Curie"],
+    "correctOrder": ["Galileo Galilei", "Isaac Newton", "Marie Curie", "Albert Einstein"]
+  },
+  {
+    "id": "imgq_art_1",
+    "questionType": "IMAGE",
+    "text": "Bu tabloyu hangi ünlü ressam yapmıştır? (Resim: Yıldızlı Gece)",
+    "topic": "Sanat",
+    "imageUrl": "placeholder_starry_night.jpg",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "aq_music_1",
+    "questionType": "AUDIO",
+    "text": "Bu klasik müzik eserinin bestecisi kimdir?",
+    "topic": "Müzik",
+    "audioUrl": "placeholder_classical_piece.mp3",
+    "options": ["Mozart", "Beethoven", "Bach", "Chopin"],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "riq_gen_1",
+    "questionType": "REVEALING_IMAGE",
+    "text": "Bu yavaşça beliren teknoloji logosu hangi şirkete aittir?",
+    "topic": "Genel Kültür",
+    "imageUrl": "placeholder_apple_logo.png",
+    "options": ["Google", "Microsoft", "Apple", "Samsung"],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "sq_sports_1",
+    "questionType": "SPEED",
+    "text": "2022 FIFA Dünya Kupası'nı hangi ülke kazanmıştır?",
+    "topic": "Spor",
+    "options": ["Fransa", "Brezilya", "Arjantin", "Almanya"],
+    "correctOptionIndex": 2
+  }
+]

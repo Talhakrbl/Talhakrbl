@@ -137,4 +137,15 @@
         app:layout_constraintEnd_toEndOf="parent"
         tools:text="Puan: Oyuncu 1: 0 - Oyuncu 2: 0" />
 
+    <Button
+        android:id="@+id/button_use_steal_power_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Joker: Çal"
+        android:visibility="gone"
+        tools:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@id/linear_layout_answer_buttons"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="8dp"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
