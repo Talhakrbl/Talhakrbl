@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.activities.TopicSelectionActivity">
+
+    <TextView
+        android:id="@+id/text_view_player_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_marginBottom="24dp"
+        tools:text="Oyuncular: Oyuncu 1, Oyuncu 2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lütfen 2 konu seçin:"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_topic_history"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tarih" />
+
+    <CheckBox
+        android:id="@+id/checkbox_topic_science"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bilim" />
+
+    <CheckBox
+        android:id="@+id/checkbox_topic_geography"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coğrafya" />
+
+    <CheckBox
+        android:id="@+id/checkbox_topic_art"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sanat" />
+
+    <CheckBox
+        android:id="@+id/checkbox_topic_sports"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spor" />
+
+    <CheckBox
+        android:id="@+id/checkbox_topic_general_culture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Genel Kültür" />
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/button_start_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Oyunu Başlat"
+        android:enabled="false" />
+
+</LinearLayout>
