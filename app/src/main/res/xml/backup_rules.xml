@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- TODO Remove the following "include" and "exclude" elements - they are
+          نمونه olarak verilmiştir ve uygulamanız için uygun olmayabilir.
+         Nelerin yedekleneceği hakkında daha fazla bilgi için, bkz.
+         https://developer.android.com/guide/topics/data/autobackup#DefiningBackupRulesXML
+    -->
+    <include domain="sharedpref" />
+    <exclude domain="database" path="mybackuprequiringdatabase.db"/>
+    <exclude domain="file" path="mydeviceonlyfile.txt"/>
+</full-backup-content>
